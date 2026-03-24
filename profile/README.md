@@ -1,8 +1,17 @@
-# Welcome to Christen Web Ministres Repos
+# Welcome to Christian Web Ministries Repos
 
-We would love for you to join use in making greate systems that will help orginions help spread the word of God to all.
+We would love for you to join us in making great systems that will help organizations spread the word of God to all.
 
-Please feel free to open isues if you find any problems.
+Please feel free to open issues if you find any problems.
 
-Thanks.
+## Repositories We Support
+
+- **[Proclaim](https://github.com/Joomla-Bible-Study/Proclaim)** – A Joomla component for managing and displaying Bible studies and sermons.
+- **[CWMLivingWord](https://github.com/Joomla-Bible-Study/CWMLivingWord)** – A living word display module for churches.
+- **[CWMScriptureLinks](https://github.com/Joomla-Bible-Study/CWMScriptureLinks)** – A plugin for linking scripture references automatically.
+- **[lib_cwmscripture](https://github.com/Joomla-Bible-Study/lib_cwmscripture)** – A JavaScript library for scripture handling.
+
+For a full list of repositories, visit our [Repositories page](https://github.com/orgs/Joomla-Bible-Study/repositories).
+
+Thanks,  
 CWM Team
